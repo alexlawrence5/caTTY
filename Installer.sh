@@ -47,7 +47,7 @@ case $CHOICE in
         sudo bash cmatrix/Installer
         sudo bash fastfetch/Installer
         sudo bash ttyclock/Installer
-
+        ;;
     6)
         exit 0
 esac
