@@ -20,6 +20,9 @@ while True:
       print("Invalid number!")
     continue
 
+  elif cmd.startswith("echo "):
+    print(cmd[5:])
+    
   elif cmd == "install":
     inst = input("Enter package name (pacman): ")
     subprocess.run(["sudo", "pacman", "-Syu", inst], text=True)
