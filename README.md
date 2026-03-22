@@ -8,4 +8,4 @@ Manjaro, EndevaourOS, Arch, Arco, Nyarch, etc. (All Arch-based distributions who
 To be honest, I don't know. I think maybe because most people use this tools on Arch Linux, but I will try to add other distribution support too.
 
 # Current version
-v0.1
+v0.2
